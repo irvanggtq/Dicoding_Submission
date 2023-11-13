@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_satu"
+        android:icon="@drawable/ic_baseline_menu_book_24"
+        android:title="Baca"
+        android:color="@color/white"/>
+
+    <item
+        android:id="@+id/navigation_dua"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:title="About Me"
+        android:color="@color/white"/>
+
+</menu>

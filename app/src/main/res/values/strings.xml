@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">ComicList</string>
+    <string name="komik">Semua Komik</string>
+    <string name="manhwa">Manhwa</string>
+    <string name="manhua">Manhua</string>
+    <string name="manga">Manga</string>
+    <string name="title">Judul Komik</string>
+    <string name="description">Deskripsi</string>
+    <string name="author">Author</string>
+    <string name="author_text">Text_Author</string>
+    <string name="genre">Genre</string>
+    <string name="genre_text">Text_Genre</string>
+    <string name="type">Type</string>
+    <string name="type_text">Text_Type</string>
+    <string name="github">Github</string>
+    <string name="instagram">Instagram</string>
+    <string name="info_name">Muhammad Irvan Arfandi</string>
+    <string-array name="data_name">
+        <item>Solo Leveling</item>
+        <item>One Piece</item>
+        <item>One Punch Man</item>
+        <item>Player Who Cant Level UP</item>
+        <item>The Villain Of Destiny</item>
+        <item>I’m An Evil God</item>
+        <item>Quest Supremacy</item>
+        <item>Jujutsu Kaisen</item>
+        <item>Chainsaw Man</item>
+        <item>Top Tier Providence</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Bercerita tentang 10 tahun yang lalu, setelah "Gerbang" yang menghubungkan dunia nyata dengan dunia monster terbuka, beberapa orang biasa, setiap hari menerima kekuatan untuk berburu monster di dalam Gerbang. Mereka dikenal sebagai "Pemburu". Namun, tidak semua Pemburu kuat.</item>
+        <item>Bercerita tentang seorang laki-laki bernama Monkey D. Luffy, yang menentang arti dari gelar bajak laut. Daripada kesannama besar, kejahatan, kekerasan, dia lebih terlihat seperti bajak laut rendahan yang suka bersenang-senang, alasanLuffy menjadi bajak laut adalah tekadnya untuk berpetualang di lautan yang menyenangkan dan bertemu orang-orangbaru dan menarik, sertabersama-sama mencari One Piece.</item>
+        <item>Saitama dulunya hanyalah lelaki biasa dalam dunia dimana pahlawan menjadi sebuah pekerjaan. Tetapi ketika Ia bertemu dengan seorang anak lelaki yang sedang diserang monster, dia mengingat cita-cita masa kecilnya untuk menjadi pahlawan. Lalu dia berlatih setiap hari hingga semua rambutnya rontok. Saitama pun menjadi pahlawan yang kuat, tetapi ada satu hal yang mencemaskan dia. Yaitu dia menjadi terlalu kuat, hingga dia dapat mengalahkan setiap monster hanya dengan satu tinjuan.</item>
+        <item>Kim Gigyu Awakening sebagai player pada usia 18 tahun. Dia mengira hidupnya berada di jalur menuju kesuksesan, “Climbing The Tower’ dan menutup ‘gates’… namun, setelah menyelesaikan tutorial, dia masih level 1. Dia membunuh goblin seharian, dan dia tetap masih level 1. Bahkan setelah 5 tahun, dia masih level 1. “Siapa yang mengira kalau ada player seperti ini.” Tidak ada yang tahu.</item>
+        <item>Gu Changge menyadari dia telah masuk ke sebuah dunia fantasi, protagonis dunia itu yang dengan beruntungnya terpilih, bersumpah untuk melakukan balas dendam terhadapnya. Semua orang sangat iri pada Protagonis itu, karena bukan hanya karakter utama wanita tergila-gila padanya, tapi dia juga selalu diperlakukan sebagai tamu kehormatan kemanapun dia pergi. Untungnya, martabat dan kekuatan Gu Changge jauh melebihi milik orang lain, sehingga dia tidak dengan mudah jatuh di tangan orang yang hanya terpilih karena keberuntungannya?</item>
+        <item>Di dunia ini ada dewa jahat dan paling tampan dalam sejarah! Pria tampan tak tertandingi Xie Yan menyeberang dan jatuh ke sarang vixen. Agar tidak kehabisan seluruh kekuatan hidupnya, ia melakukan perjalanan di berbagai kerajaan, membunuh anak dewa, dan mengusir persatuan Yang Yi … Ini adalah kisah bagaimana ia akhirnya menjadi dewa jahat.</item>
+        <item>Kim Soohyun adalah siswa sekolah menengah biasa yang tidak pandai belajar, berkelahi, atau menjadi menarik. Tiba-tiba, dia dihadapkan dengan jendela pencarian tepat di depan matanya. Setelah diberi kekuatan [sistem] game entah dari mana, bagaimana pahlawan kita akan menghadapi tantangan di depannya?</item>
+        <item>Yuuji adalah seorang jenius di jalur dan lapangan. Tapi dia memiliki minat nol, dia senang sebagai clam di Klub Penelitian Ilmu Ghaib. Meskipun Dia di Klub hanya untuk Iseng, Hal-hal menjadi serius ketika semangat nyata muncul di sekolah! Hidup akan menjadi sangat aneh Di SMA Negeri Sugisawa #3 !</item>
+        <item>Kehidupan miskin Denji berubah selamanya ketika ia Menyatu dengan anjing Chainsaw peliharaannya, Pochita! Sekarang dia tinggal di kota besar dan menjadi Devil Hunter resmi. Tapi dia harus banyak belajar tentang pekerjaan barunya dan kekuatan sebenarnya dari Chainsaw!</item>
+        <item>Bereinkarnasi di dunia kultivasi, Han Jue menyadari bahwa dia dapat menjalani hidupnya seperti video game. Dia mengendalikan potensi kultivasi dan pemeliharaan bawaannya. Dalam mengejar umur panjang, Han Jue memutuskan untuk berkultivasi dengan cara yang rendah hati. Seribu tahun kemudian, generasi kultivator telah menjadi sejarah. Saat itulah yang abadi mulai membersihkan dunia fana. Han Jue tidak bisa lagi bersembunyi dan harus melakukan sesuatu. Kemudian dia menyadari, makhluk abadi tidak sekuat itu.</item>
+    </string-array>
+    <string-array name="data_author">
+        <item>Chugong 추공</item>
+        <item>Oda Eiichiro</item>
+        <item>ONE (Story),Yusuke Murata (Art)</item>
+        <item>GaVinGe,Parrot Kim</item>
+        <item>天命反派</item>
+        <item>Shidai Man Wang</item>
+        <item>Park Tae-Jun</item>
+        <item>Akutami,Gege</item>
+        <item>TATSUKI FUJIMOTO</item>
+        <item>Xing Kong (星空社)</item>
+    </string-array>
+    <string-array name="data_genre">
+        <item>Action, Magic, Monsters</item>
+        <item>Action, Adventure, Comedy, Drama, Fantasy</item>
+        <item>Action, Adventure, Comedy, Fantasy</item>
+        <item>Action, Adventure</item>
+        <item>Action, Adventure, Demon, Drama, Martial Arts</item>
+        <item>Action, Adventure, Comedy, Drama, Fantasy</item>
+        <item>Action, Drama, Fantasy, School Life</item>
+        <item>Action, Adventure, Fantasy</item>
+        <item>Action, Adventure, Comedy, Demon, Shounen, Violence</item>
+        <item>Action, Adventure, Fantasy, Martial Arts</item>
+    </string-array>
+    <string-array name="data_type">
+        <item>Manhwa</item>
+        <item>Manga</item>
+        <item>Manga</item>
+        <item>Manhwa</item>
+        <item>Manhua</item>
+        <item>Manhua</item>
+        <item>Manhwa</item>
+        <item>Manga</item>
+        <item>Manga</item>
+        <item>Manhua</item>
+    </string-array>
+    <string-array name="data_photo">
+        <item>https://pengocok.b-cdn.net/uploads/2020/12/Komik-Solo-Leveling.jpeg</item>
+        <item>https://shinigami.sh/wp-content/uploads/2023/03/1dcc8e3c-0504-46f9-8588-e248e98250a1-191x300.jpg</item>
+        <item>https://shinigami.sh/wp-content/uploads/2023/03/wanpanman230622-191x300.jpg</item>
+        <item>https://shinigami.sh/wp-content/uploads/2022/11/newPWCLU-350x476.jpg</item>
+        <item>https://shinigami.sh/wp-content/uploads/2022/05/The-Villain-Of-Destiny-1-210x300.jpg</item>
+        <item>https://shinigami.sh/wp-content/uploads/2023/06/chap_1_1-212x300.jpg</item>
+        <item>https://shinigami.sh/wp-content/uploads/2023/02/quest-supremacy-208x300.jpg</item>
+        <item>https://shinigami.sh/wp-content/uploads/2023/03/jujutsu.jpg</item>
+        <item>https://shinigami.sh/wp-content/uploads/2022/07/chainsaw_man-210x300.jpg</item>
+        <item>https://shinigami.sh/wp-content/uploads/2023/07/Top-350x476.jpg</item>
+    </string-array>
+
+</resources>
